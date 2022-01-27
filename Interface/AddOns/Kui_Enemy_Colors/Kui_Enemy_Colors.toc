@@ -1,0 +1,8 @@
+## Interface: 70200
+## Author: Nyvia | Kesava
+## Title: Kui Enemy Colors
+## Notes: 
+## Dependencies: Kui_Nameplates_Core
+## SavedVariables: KuiCustomOptions
+
+custom.lua

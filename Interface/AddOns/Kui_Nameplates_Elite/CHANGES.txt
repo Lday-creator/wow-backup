@@ -1,0 +1,10 @@
+lightweight tag 94cbfdf9195d957f707374b5e12f469099ddef39 v2.11
+Author:	Eliote <3354468+Eliote@users.noreply.github.com>
+Date:	Sat Jul 3 16:32:15 2021 -0300
+
+commit 94cbfdf9195d957f707374b5e12f469099ddef39
+Author: Eliote <3354468+Eliote@users.noreply.github.com>
+Date:   Sat Jul 3 16:32:15 2021 -0300
+
+    Update to WoW 9.1
+

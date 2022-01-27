@@ -1,0 +1,19 @@
+lightweight tag 71faa76b020760628e1a9d95ff26f6959059a806 v1.13
+Author:	Mstislav Zhivodkov <stevemyz@gmail.com>
+Date:	Sat Oct 17 11:33:24 2020 +0700
+
+commit 71faa76b020760628e1a9d95ff26f6959059a806
+Author: Mstislav Zhivodkov <stevemyz@gmail.com>
+Date:   Sat Oct 17 11:33:24 2020 +0700
+
+    Update version for shadowlands
+
+commit 32a18d36e570170d7716b78950eb717dab7da7f5
+Author: Oleg Nechiporenko <oo.nechiporenko@gmail.com>
+Date:   Sat Oct 17 07:32:37 2020 +0300
+
+    Add WoW SL compatibility (#12)
+    
+    Fix fail `attempt to call method 'SetBackdrop' (a nil value)`.
+    See https://www.wowhead.com/news=316954/addons-now-available-for-use-in-shadowlands-beta
+

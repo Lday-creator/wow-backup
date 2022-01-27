@@ -1,0 +1,10 @@
+lightweight tag fb52c681a65be97a569cc4833dc72303606b3d5c 9.1.5.6-release
+Author:	David C. Uhrig <david@twintop-tahoe.com>
+Date:	Thu Jan 6 00:18:14 2022 -0800
+
+commit fb52c681a65be97a569cc4833dc72303606b3d5c
+Author: David C. Uhrig <david@twintop-tahoe.com>
+Date:   Thu Jan 6 00:18:14 2022 -0800
+
+    Fix issues with bar positioning not being maintaned.
+

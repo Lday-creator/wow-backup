@@ -1,0 +1,13 @@
+tag 363b4023fd748a2ff3cf7b13186255a235d2a243 1.4.1
+Author:	Alar of Runetotem <alar@aspide.it>
+Date:	Sun Jul 11 10:36:53 2021 +0200
+
+Lua error fix
+
+commit 39ec1c6b96a4b87d27ec80742af03ebe3dd70ade
+Author: Alar of Runetotem <alar@aspide.it>
+Date:   Sat Jul 10 14:05:21 2021 +0200
+
+    Interface\AddOns\ChampionCommander\cache.lua:911: attempt to compare
+    number with nil
+

@@ -1,0 +1,21 @@
+## Interface: 90105
+## Title: Tooltip RealmInfo
+## Notes: Append realm infos to some tooltips which containing player names with realm names
+## Author: Hizuro
+## Version: 1.2.3-release
+## SavedVariables: TooltipRealmInfoDB
+## OptionalDeps: LibStub, CallbackHandler-1.0, Ace3, LibRealmInfo
+
+## X-Curse-Project-ID: 99492
+
+#@no-lib-strip@
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+libs\AceGUI-3.0\AceGUI-3.0.xml
+libs\AceConfig-3.0\AceConfig-3.0.xml
+#@end-no-lib-strip@
+
+libs\LibRealmInfo\LibRealmInfo.lua
+
+localizations.lua
+TooltipRealmInfo.lua

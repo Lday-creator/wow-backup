@@ -1,0 +1,12 @@
+tag 95cbdb534cdb4f64f086ff1aa502f767c829e08f 1.2.3-release
+Author:	Hizuro <hizuro@gmx.net>
+Date:	Thu Nov 25 04:16:58 2021 +0100
+
+Tagging as 1.2.3-release
+
+commit d4a5ca4ab78b54dd09abe8475ac89eedbfffd2ee
+Author: Hizuro <hizuro@gmx.net>
+Date:   Thu Nov 25 04:16:01 2021 +0100
+
+    fix text nil error in GameTooltip hook function
+

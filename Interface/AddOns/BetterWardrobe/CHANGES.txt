@@ -1,0 +1,18 @@
+tag d120470da00b8ea07b781c6446fe52347128c9b6 3.12.2
+Author:	SLOKnightfall <SLOKnightfall@gmail.com>
+Date:	Fri Dec 3 13:31:32 2021 -0800
+
+bugfixes
+
+commit 24425731d5988cb164cd7dca8b9a0f9bb45f31d2
+Author: SLOKnightfall <SLOKnightfall@gmail.com>
+Date:   Fri Dec 3 13:31:19 2021 -0800
+
+    Repositioned tooltip watcher frames to an upper corner to hopefully fix blinking pixel in the center of the screen that has been reported.
+
+commit 3b511c26f790dcdc4d21e9763b7110b538c776c2
+Author: SLOKnightfall <SLOKnightfall@gmail.com>
+Date:   Fri Dec 3 13:18:32 2021 -0800
+
+    -Fixed ability to delete character's saved sets from the set.
+
